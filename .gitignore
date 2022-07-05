@@ -1,0 +1,5 @@
+pycache/ 
+.idea/ 
+venv/ 
+git.sh 
+migrate.sh
